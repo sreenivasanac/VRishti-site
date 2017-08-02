@@ -48,6 +48,9 @@
     .header-connect { 
         text-align: center;
     }
+    .header-social-wrapper {
+        display: none;
+    }
     .register-area {
     padding: 50px 0px;
 }
@@ -72,19 +75,19 @@
 
     .header-call p span{
         margin-right: 10px;
-        font-size: 12px;
+        font-size: 16px;
     }
     .header-call p span i{
-        font-size: 14px;
+        font-size: 16px;
     }
     .header-social ul{
         padding-top: 0px;
     }
     .header-social ul li a{
-        font-size: 12px;
+        font-size: 16px;
     }
     .navbar .container{
-        padding: 10px 15px;
+        padding: 0px 15px;
     }
     .navbar{
         min-height: 75px;
@@ -93,7 +96,7 @@
         margin-top: 15px;
     }
     .navbar-brand img{
-        width: 110px;
+        width: 140px;
     }
     .navbar-default .navbar-nav > li > a {
         font-size: 13px;
@@ -341,6 +344,9 @@
     .header-connect { 
         text-align: center;
     }
+    .header-social-wrapper {
+        display: none;
+    }
     .home-lager-shearch .large-search {
         padding: 10px;
     }
@@ -402,19 +408,19 @@
 
     .header-call p span {
         margin-right: 10px;
-        font-size: 12px;
+        font-size: 16px;
     }
     .header-call p span i {
-        font-size: 14px;
+        font-size: 16px;
     }
     .header-social ul{
         padding-top: 0px;
     }
     .header-social ul li a {
-        font-size: 12px;
+        font-size: 16px;
     }
     .navbar .container {
-        padding: 10px 15px;
+        padding: 0px 15px;
     }
     .navbar {
         min-height: 75px;
@@ -423,7 +429,7 @@
         margin-top: 15px;
     }
     .navbar-brand img {
-        width: 110px;
+        width: 140px;
     }
     .navbar-default .navbar-nav > li > a {
         font-size: 13px;
@@ -570,22 +576,22 @@
 
     .header-call p span {
         margin-right: 10px;
-        font-size: 12px;
+        font-size: 16px;
     }
     .header-call p span i {
-        font-size: 14px;
+        font-size: 16px;
     }
     .header-social ul{
         padding-top: 0px;
     }
     .header-social ul li a {
-        font-size: 12px;
+        font-size: 16px;
     }
     .navbar {
         min-height: 85px;
     }
     .navbar-brand img {
-        width: 110px;
+        width: 140px;
     }
     .navbar-default .navbar-nav > li > a {
         font-size: 13px;

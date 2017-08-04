@@ -1,0 +1,28 @@
+{
+  "name": "vrishti-site",
+  "version": "1.0.0",
+  "description": "Hello,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreenivasanac/VRishti-site.git"
+  },
+  "keywords": [
+    "virtual",
+    "reality",
+    "home",
+    "tours"
+  ],
+  "author": "Sreenivasan AC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreenivasanac/VRishti-site/issues"
+  },
+  "homepage": "https://github.com/sreenivasanac/VRishti-site#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
